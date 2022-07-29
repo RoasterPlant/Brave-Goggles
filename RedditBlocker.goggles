@@ -7,4 +7,4 @@ $discard,site=reddit.com
 /r/$discard,site=facebook.com
 /r/$discard,site=twitter.com
 /reddit,$discard,site=twitter.com
-
+/Reddit,$discard,site=twitter.com
