@@ -3,3 +3,8 @@
 ! public: false
 ! author: Roaster Plant
 $discard,site=reddit.com
+ask$inurl,$discard,site=facebook.com
+/r/$discard,site=facebook.com
+/r/$discard,site=twitter.com
+/reddit/$discard,site=twitter.com
+
