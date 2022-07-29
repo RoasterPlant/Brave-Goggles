@@ -1,0 +1,5 @@
+! name: Reddit Blocker
+! description: This Goggles is able to take off reddit recomendations of the brave web browser
+! public: false
+! author: Roaster Plant
+$discard,site=reddit.com
